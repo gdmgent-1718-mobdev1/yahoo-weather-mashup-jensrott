@@ -1,0 +1,39 @@
+.search_input {
+    margin-top:10px;    
+}
+
+.status_text {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+.backgroundColorId_red {
+    background-color: #EC5252;
+    height: 100px; 
+    box-shadow: -7px 17px 83px -3px rgba(0,0,0,0.43);
+}
+
+.backgroundColorId_orange {
+    background-color: #D89117;
+    height: 100px;
+    box-shadow: -7px 17px 83px -3px rgba(0,0,0,0.43);
+}
+
+
+.backgroundColorId_blue {
+    background-color: #6363DF; 
+    height: 100px;
+    box-shadow: -7px 17px 83px -3px rgba(0,0,0,0.43);
+}
+
+.backgroundColorId_grey {
+    background-color: #999191;
+    height: 100px;
+    box-shadow: -7px 17px 83px -3px rgba(0,0,0,0.43); 
+
+}
+
+
